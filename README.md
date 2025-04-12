@@ -75,11 +75,11 @@ Average delivery time is **3.96 days**, indicating decent logistics performance.
 ## 📥 Download Full Report
 
 🔗 [Click to View SQL_Inventory_Report.pdf](detail_report.pdf)
-
 Includes:
 - Business Insights 💡  
 - Recommendations ✅
 
+[Click to View sql scripts with result](sql_script_with_results.pdf)
 ---
 
 ## 🧠 Conclusion
