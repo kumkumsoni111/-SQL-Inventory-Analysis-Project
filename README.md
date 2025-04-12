@@ -95,7 +95,7 @@ This project transforms raw sales data into actionable business intelligence usi
 ## 📌 Credits
 
 - 📚 Dataset: [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets)
-- 🎓 Project ME – Data Analyst Enthusiast
+- 🎓 Project by  ME – Data Analyst Enthusiast
 
 ---
   
