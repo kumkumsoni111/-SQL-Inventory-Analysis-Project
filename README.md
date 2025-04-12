@@ -74,7 +74,7 @@ Average delivery time is **3.96 days**, indicating decent logistics performance.
 
 ## 📥 Download Full Report
 
-🔗 [Click to View SQL_Inventory_Report.pdf](SQL_Inventory_Report.pdf)
+🔗 [Click to View SQL_Inventory_Report.pdf](Final Report_ SQL Inventory Analysis Project – Sample Superstore.pdf)
 
 Includes:
 - Business Insights 💡  
